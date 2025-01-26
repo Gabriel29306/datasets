@@ -1,0 +1,10 @@
+{
+  "source": {
+    "Gabriel29306": "https://github.com/Gabriel29306/PapillonV7.git"
+  }, {
+    "patchs": [
+      "Gabriel29306/better-logs",
+      "Gabriel29306/repair-pronote"
+    ]
+  }
+}
