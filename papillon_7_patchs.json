@@ -2,7 +2,9 @@
   "source": {
     "Gabriel29306": "https://github.com/Gabriel29306/PapillonV7.git"
   },
+    "Kgeek": "https://github.com/Kgeek33/Papillonv7"
   "patchs": [
-    "Gabriel29306/repair-build-header"
+    "Gabriel29306/repair-build-header",
+    "Kgeek/feat/reload"
   ]
 }
