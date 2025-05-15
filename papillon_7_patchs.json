@@ -5,6 +5,7 @@
   },
   "patchs": [
     "Gabriel29306/repair-build-header",
-    "Kgeek/feat/reload"
+    "Kgeek/feat/reload",
+    "Gabriel29306/fix-babel"
   ]
 }
