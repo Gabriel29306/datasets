@@ -4,7 +4,6 @@
     "Kgeek": "https://github.com/Kgeek33/Papillonv7"
   },
   "patchs": [
-    "Gabriel29306/repair-build-header",
     "Kgeek/feat/reload",
     "Gabriel29306/fix-babel"
   ]
