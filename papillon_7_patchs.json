@@ -4,7 +4,7 @@
     "PapillonV7": "https://github.com/PapillonApp/papillon-v7.git"
   },
   "patchs": [
-    "PapillonV7/pull/928/head"
+    "PapillonV7/pull/928/head",
     "Gabriel29306/fix-babel",
     "Gabriel29306/change-package-name"
   ]
