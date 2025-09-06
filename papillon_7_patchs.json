@@ -5,6 +5,7 @@
   },
   "patchs": [
     "Kgeek/feat/reload",
-    "Gabriel29306/fix-babel"
+    "Gabriel29306/fix-babel",
+    "Gabriel29306/change-package-name"
   ]
 }
